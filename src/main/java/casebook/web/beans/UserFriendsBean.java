@@ -52,6 +52,6 @@ public class UserFriendsBean {
     }
 
     public void removeFriend(String id) {
-        
+
     }
 }
